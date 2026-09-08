@@ -64,6 +64,16 @@
             <p>
                 NIM: 24-535924-SV-24340
             </p>
+
+            <div style="margin-top: 30px;">
+                <h2>About This Project</h2>
+
+                <p>
+                    This project demonstrates the implementation of
+                    software development practices using Laravel,
+                    Git, GitHub, branching, pull requests, and CI/CD.
+                </p>
+            </div>
         </div>
     </main>
 </body>
